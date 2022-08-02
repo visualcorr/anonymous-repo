@@ -1,0 +1,9 @@
+gdown
+numpy
+Pillow
+torch
+torchvision
+tqdm
+tensorboardX==2.5
+matplotlib
+faiss-cpu==1.7.2
